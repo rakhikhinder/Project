@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&family=Edu+SA+Beginner&family=REM:ital,wght@1,200&display=swap:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
+
+header {
+  margin: 0;
+}
+
+.logo {
+  background: url(E:\Project\images\logo.jpg);
+  background-position: centre;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 360px;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.main-text {
+  font-size: 40px;
+  color: rgb(173, 173, 180);
+  font-weight: bold;
+}
